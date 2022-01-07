@@ -1,0 +1,29 @@
+C:\Users\Hussein\source\repos\ConsoleApp3\bin\Debug\net6.0\naive sol.exe
+C:\Users\Hussein\source\repos\ConsoleApp3\bin\Debug\net6.0\naive sol.deps.json
+C:\Users\Hussein\source\repos\ConsoleApp3\bin\Debug\net6.0\naive sol.runtimeconfig.json
+C:\Users\Hussein\source\repos\ConsoleApp3\bin\Debug\net6.0\naive sol.dll
+C:\Users\Hussein\source\repos\ConsoleApp3\bin\Debug\net6.0\ref\naive sol.dll
+C:\Users\Hussein\source\repos\ConsoleApp3\bin\Debug\net6.0\naive sol.pdb
+C:\Users\Hussein\source\repos\ConsoleApp3\obj\Debug\net6.0\naive sol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussein\source\repos\ConsoleApp3\obj\Debug\net6.0\naive sol.AssemblyInfoInputs.cache
+C:\Users\Hussein\source\repos\ConsoleApp3\obj\Debug\net6.0\naive sol.AssemblyInfo.cs
+C:\Users\Hussein\source\repos\ConsoleApp3\obj\Debug\net6.0\naive sol.csproj.CoreCompileInputs.cache
+C:\Users\Hussein\source\repos\ConsoleApp3\obj\Debug\net6.0\naive sol.dll
+C:\Users\Hussein\source\repos\ConsoleApp3\obj\Debug\net6.0\ref\naive sol.dll
+C:\Users\Hussein\source\repos\ConsoleApp3\obj\Debug\net6.0\naive sol.pdb
+C:\Users\Hussein\source\repos\ConsoleApp3\obj\Debug\net6.0\naive sol.genruntimeconfig.cache
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\bin\Debug\net6.0\naive sol.exe
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\bin\Debug\net6.0\naive sol.deps.json
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\bin\Debug\net6.0\naive sol.runtimeconfig.json
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\bin\Debug\net6.0\naive sol.dll
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\bin\Debug\net6.0\ref\naive sol.dll
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\bin\Debug\net6.0\naive sol.pdb
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\obj\Debug\net6.0\naive sol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\obj\Debug\net6.0\naive sol.AssemblyInfoInputs.cache
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\obj\Debug\net6.0\naive sol.AssemblyInfo.cs
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\obj\Debug\net6.0\naive sol.csproj.CoreCompileInputs.cache
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\obj\Debug\net6.0\naive sol.dll
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\obj\Debug\net6.0\ref\naive sol.dll
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\obj\Debug\net6.0\naive sol.pdb
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\obj\Debug\net6.0\naive sol.genruntimeconfig.cache
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\naive sol\obj\Debug\net6.0\naive sol.csproj.AssemblyReference.cache

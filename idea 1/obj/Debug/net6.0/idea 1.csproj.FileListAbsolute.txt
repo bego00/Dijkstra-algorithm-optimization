@@ -1,0 +1,36 @@
+D:\Study\temp\idea 1\bin\Debug\net6.0\idea 1.exe
+D:\Study\temp\idea 1\bin\Debug\net6.0\idea 1.deps.json
+D:\Study\temp\idea 1\bin\Debug\net6.0\idea 1.runtimeconfig.json
+D:\Study\temp\idea 1\bin\Debug\net6.0\idea 1.dll
+D:\Study\temp\idea 1\bin\Debug\net6.0\ref\idea 1.dll
+D:\Study\temp\idea 1\bin\Debug\net6.0\idea 1.pdb
+D:\Study\temp\idea 1\bin\Debug\net6.0\Lucene.Net.dll
+D:\Study\temp\idea 1\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\Study\temp\idea 1\obj\Debug\net6.0\idea 1.csproj.AssemblyReference.cache
+D:\Study\temp\idea 1\obj\Debug\net6.0\idea 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\temp\idea 1\obj\Debug\net6.0\idea 1.AssemblyInfoInputs.cache
+D:\Study\temp\idea 1\obj\Debug\net6.0\idea 1.AssemblyInfo.cs
+D:\Study\temp\idea 1\obj\Debug\net6.0\idea 1.csproj.CoreCompileInputs.cache
+D:\Study\temp\idea 1\obj\Debug\net6.0\idea 1.csproj.CopyComplete
+D:\Study\temp\idea 1\obj\Debug\net6.0\idea 1.dll
+D:\Study\temp\idea 1\obj\Debug\net6.0\ref\idea 1.dll
+D:\Study\temp\idea 1\obj\Debug\net6.0\idea 1.pdb
+D:\Study\temp\idea 1\obj\Debug\net6.0\idea 1.genruntimeconfig.cache
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\bin\Debug\net6.0\idea 1.exe
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\bin\Debug\net6.0\idea 1.deps.json
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\bin\Debug\net6.0\idea 1.runtimeconfig.json
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\bin\Debug\net6.0\idea 1.dll
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\bin\Debug\net6.0\ref\idea 1.dll
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\bin\Debug\net6.0\idea 1.pdb
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\bin\Debug\net6.0\Lucene.Net.dll
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\obj\Debug\net6.0\idea 1.csproj.AssemblyReference.cache
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\obj\Debug\net6.0\idea 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\obj\Debug\net6.0\idea 1.AssemblyInfoInputs.cache
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\obj\Debug\net6.0\idea 1.AssemblyInfo.cs
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\obj\Debug\net6.0\idea 1.csproj.CoreCompileInputs.cache
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\obj\Debug\net6.0\idea 1.csproj.CopyComplete
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\obj\Debug\net6.0\idea 1.dll
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\obj\Debug\net6.0\ref\idea 1.dll
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\obj\Debug\net6.0\idea 1.pdb
+C:\Users\emooe\Downloads\Compressed\Project\[1] MAP ROUTING\Project\idea 1\obj\Debug\net6.0\idea 1.genruntimeconfig.cache

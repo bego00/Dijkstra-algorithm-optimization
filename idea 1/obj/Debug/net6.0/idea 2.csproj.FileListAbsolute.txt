@@ -1,0 +1,36 @@
+C:\Users\Hussein\source\repos\ConsoleApp2\obj\Debug\net6.0\idea 2.csproj.AssemblyReference.cache
+C:\Users\Hussein\source\repos\ConsoleApp2\obj\Debug\net6.0\idea 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hussein\source\repos\ConsoleApp2\obj\Debug\net6.0\idea 2.AssemblyInfoInputs.cache
+C:\Users\Hussein\source\repos\ConsoleApp2\obj\Debug\net6.0\idea 2.AssemblyInfo.cs
+C:\Users\Hussein\source\repos\ConsoleApp2\obj\Debug\net6.0\idea 2.csproj.CoreCompileInputs.cache
+C:\Users\Hussein\source\repos\ConsoleApp2\bin\Debug\net6.0\idea 2.exe
+C:\Users\Hussein\source\repos\ConsoleApp2\bin\Debug\net6.0\idea 2.deps.json
+C:\Users\Hussein\source\repos\ConsoleApp2\bin\Debug\net6.0\idea 2.runtimeconfig.json
+C:\Users\Hussein\source\repos\ConsoleApp2\bin\Debug\net6.0\idea 2.dll
+C:\Users\Hussein\source\repos\ConsoleApp2\bin\Debug\net6.0\ref\idea 2.dll
+C:\Users\Hussein\source\repos\ConsoleApp2\bin\Debug\net6.0\idea 2.pdb
+C:\Users\Hussein\source\repos\ConsoleApp2\bin\Debug\net6.0\Lucene.Net.dll
+C:\Users\Hussein\source\repos\ConsoleApp2\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+C:\Users\Hussein\source\repos\ConsoleApp2\obj\Debug\net6.0\idea 2.csproj.CopyComplete
+C:\Users\Hussein\source\repos\ConsoleApp2\obj\Debug\net6.0\idea 2.dll
+C:\Users\Hussein\source\repos\ConsoleApp2\obj\Debug\net6.0\ref\idea 2.dll
+C:\Users\Hussein\source\repos\ConsoleApp2\obj\Debug\net6.0\idea 2.pdb
+C:\Users\Hussein\source\repos\ConsoleApp2\obj\Debug\net6.0\idea 2.genruntimeconfig.cache
+D:\Study\temp\idea 2\bin\Debug\net6.0\idea 2.exe
+D:\Study\temp\idea 2\bin\Debug\net6.0\idea 2.deps.json
+D:\Study\temp\idea 2\bin\Debug\net6.0\idea 2.runtimeconfig.json
+D:\Study\temp\idea 2\bin\Debug\net6.0\idea 2.dll
+D:\Study\temp\idea 2\bin\Debug\net6.0\ref\idea 2.dll
+D:\Study\temp\idea 2\bin\Debug\net6.0\idea 2.pdb
+D:\Study\temp\idea 2\bin\Debug\net6.0\Lucene.Net.dll
+D:\Study\temp\idea 2\bin\Debug\net6.0\ICSharpCode.SharpZipLib.dll
+D:\Study\temp\idea 2\obj\Debug\net6.0\idea 2.csproj.AssemblyReference.cache
+D:\Study\temp\idea 2\obj\Debug\net6.0\idea 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\temp\idea 2\obj\Debug\net6.0\idea 2.AssemblyInfoInputs.cache
+D:\Study\temp\idea 2\obj\Debug\net6.0\idea 2.AssemblyInfo.cs
+D:\Study\temp\idea 2\obj\Debug\net6.0\idea 2.csproj.CoreCompileInputs.cache
+D:\Study\temp\idea 2\obj\Debug\net6.0\idea 2.csproj.CopyComplete
+D:\Study\temp\idea 2\obj\Debug\net6.0\idea 2.dll
+D:\Study\temp\idea 2\obj\Debug\net6.0\ref\idea 2.dll
+D:\Study\temp\idea 2\obj\Debug\net6.0\idea 2.pdb
+D:\Study\temp\idea 2\obj\Debug\net6.0\idea 2.genruntimeconfig.cache
